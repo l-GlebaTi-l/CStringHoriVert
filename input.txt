@@ -1,0 +1,3 @@
+0 newHori.txt this is hory string
+1 newVert.txt and this is vert string
+0 newnewHori.txt one more hory
